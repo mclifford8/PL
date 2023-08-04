@@ -30,7 +30,7 @@ C_Ai  = Player Rating Change
 
 The formulas: 
 
-with, k = 30, w = 1
+with, k = 40, w = 1
 
 E_Ai <- 1 / (1 + 10^((R_B - R_Ai)/400))
 
